@@ -1,9 +1,0 @@
-{
-  "version": "0.2.5",
-  "download_url": "https://ownpeople.github.io/imageTools-release/releases/0.2.5/local-tool-platform-0.2.5.zip",
-  "sha256": "9bca2511ef745821cfbc644bdfd06d6e17d2847a2d11ec20f213ad1d48513e5a",
-  "release_notes": "发布版本 0.2.5",
-  "published_at": "2026-05-02T03:47:18Z",
-  "tools_bundle_version": "0.2.5",
-  "minimum_supported_version": "0.1.0"
-}
